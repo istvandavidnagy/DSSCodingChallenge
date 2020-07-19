@@ -6,6 +6,6 @@ Futtatjuk az appot, majd beütjük egyszer, hogy 0 és enter ha elérhető a beo
 
 Ha nem ott van, akkor be kell ütni azt, hogy -1 majd enter és meg kell adni manuálisan az útvonalat, pl. :
 
-A FELH_NÉV helyett a saját felhasználónevet kell írni.
-
 C:\Users\FELH_NÉV\Documents\NetBeansProjects\DSSCodingChallenge\megrendeles.csv
+
+A FELH_NÉV helyett a saját felhasználónevet kell írni.
